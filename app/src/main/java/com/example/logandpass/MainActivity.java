@@ -28,5 +28,6 @@ public class MainActivity extends AppCompatActivity {
         else {
             deny.setText("Accept Denied");
         }
+
     }
 }
